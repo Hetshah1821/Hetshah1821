@@ -40,12 +40,12 @@ I'm currently working on small games, gameplay systems, and data analysis projec
 ---
 
 
-## 🧠 A Bit About Me
+##  A Bit About Me
 
-- 🎮 I enjoy playing and making games
-- 💻 I like learning by building projects
-- 🧩 I enjoy solving programming problems
-- 📊 I like finding patterns in data
-- 🚀 Always working on something new
+-  I enjoy playing and making games
+-  I like learning by building projects
+-  I enjoy solving programming problems
+-  I like finding patterns in data
+-  Always working on something new
 
 ---
