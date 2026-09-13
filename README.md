@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**Hetshah1821/Hetshah1821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Het, a Computer Engineering student from Mumbai.
 
-Here are some ideas to get you started:
+I mainly work on **Game Development with Unity & C#**, while also building my skills in **Data Analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on small games, gameplay systems, and data analysis projects — learning by building and experimenting.
+
+---
+
+##  Game Development
+
+- Unity & C#
+- 2D & 3D Game Development
+- Gameplay Programming
+- Player Mechanics & Game Systems
+- Enemy AI & NavMesh
+- Animator & Game Architecture
+
+##  Data Analytics
+
+- Python & Pandas
+- SQL
+- Excel
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis
+- Data Visualization & Dashboards
+
+---
+
+##  Tools & Tech
+
+- Unity, C#
+- Python, Pandas, NumPy
+- SQL, Excel
+- Git & GitHub
+- VS Code
+- Firebase
+
+---
+
+
+## 🧠 A Bit About Me
+
+- 🎮 I enjoy playing and making games
+- 💻 I like learning by building projects
+- 🧩 I enjoy solving programming problems
+- 📊 I like finding patterns in data
+- 🚀 Always working on something new
+
+---
